@@ -4,7 +4,7 @@
 
 ### Step 1: Storyboard ###
 
-github URL: https://github.com/Devgarg1302/0x08-2d-animation-project.git
+github URL: (https://github.com/Mavericklovish/102117148-Lovish--102117157-Soham-CG-Project.git)
 
 ### Step 2: Animation ###
 
