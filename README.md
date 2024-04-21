@@ -8,7 +8,7 @@ github URL: (https://github.com/Mavericklovish/102117148-Lovish--102117157-Soham
 
 ### Step 2: Animation ###
 
-[![](./assets/102117151_102117153_102297020-0x08-Turtle_Hare_Race-Storyboard.png)](https://github.com/Mavericklovish/102117148-Lovish--102117157-Soham-CG-Project/blob/main/StoryBoard.png)
+(https://github.com/Mavericklovish/102117148-Lovish--102117157-Soham-CG-Project/blob/main/StoryBoard.png)
 
 ## Submit ##
 
