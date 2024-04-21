@@ -10,6 +10,10 @@
 
 github URL: (https://github.com/Mavericklovish/102117148-Lovish--102117157-Soham-CG-Project.git)
 
+### Step 3: Youtube video link ###
+
+Youtube URL: (https://youtu.be/61BFXjRhc7c)
+
 ## Submit ##
 
 ### Storyboard ###
