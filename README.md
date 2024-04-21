@@ -4,11 +4,11 @@
 
 ### Step 1: Storyboard ###
 
-github URL: (https://github.com/Mavericklovish/102117148-Lovish--102117157-Soham-CG-Project.git)
+(https://github.com/Mavericklovish/102117148-Lovish--102117157-Soham-CG-Project/blob/main/StoryBoard.png)
 
 ### Step 2: Animation ###
 
-(https://github.com/Mavericklovish/102117148-Lovish--102117157-Soham-CG-Project/blob/main/StoryBoard.png)
+github URL: (https://github.com/Mavericklovish/102117148-Lovish--102117157-Soham-CG-Project.git)
 
 ## Submit ##
 
